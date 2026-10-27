@@ -1,0 +1,4 @@
+venv_publish
+plots
+hidden
+*.pyc
